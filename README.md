@@ -48,7 +48,7 @@ Supports the ability to compare the execution results of multiple AI models, pro
 ## Deploy Guide (Docker)
 ## Live PlayGround
 
-A [View Plyagounrd](https://dev-client.chameleon.best/)
+[View Plyagounrd](https://dev-client.chameleon.best/)
 
 ## How to Contribute
 1. Clone repository from develop branch and create a new branch
