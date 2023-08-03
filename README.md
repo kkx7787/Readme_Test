@@ -7,6 +7,7 @@ Supports clients with both desktop and mobile.
 
 ## Project Structure
 
+![Project Structure](https://github.com/kkx7787/Readme_Test/assets/115688628/b0f34161-7e28-4c63-8c14-84ef154c3892)
 
 ## Prerequisites
 ## Build Guide (Debian)
