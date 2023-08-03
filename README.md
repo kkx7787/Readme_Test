@@ -1,9 +1,7 @@
 # Chameleon-Platform
-> Server for Chameleon-Platform
+> Platform for Chameleon
 
 This is 
-
-Supports clients with both desktop and mobile.
 
 ## Project Structure
 
