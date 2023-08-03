@@ -1,4 +1,4 @@
-[logo1(https://github.com/kkx7787/Readme_Test/assets/115688628/a4ce72de-e141-4de2-9964-4eb2be489471)
+<img src=![logo1](https://github.com/kkx7787/Readme_Test/assets/115688628/ba368fc4-8f63-493c-84a6-06c89d3b1dc9)" height="100px" width="300px">
 
 # Chameleon-Platform
 > Platform for Chameleon
