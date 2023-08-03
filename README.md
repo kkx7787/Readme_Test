@@ -10,5 +10,7 @@ This is
 ## How to Contribute
 1. Clone repository from develop branch and create a new branch
 
-``` git checkout https://github.com/Koreatech-Mongle/chameleon-platform -b name_for_new_branch```
+``` 
+git checkout https://github.com/Koreatech-Mongle/chameleon-platform -b name_for_new_branch
+```
 
