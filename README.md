@@ -11,11 +11,11 @@ Supports the ability to compare the execution results of multiple AI models, pro
 
 |Create Model|Execute Model|
 |------|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/3e1f5fc0-ee8c-44c0-bd9e-c252233c2532" height="250px" width="400px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2f663aa7-7ac9-4360-a4cc-6f97987df6f4" height="250px" width="400px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/835d3380-2ea4-4bae-b107-7c7b73aae804" height="250px" width="400px">|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/3e1f5fc0-ee8c-44c0-bd9e-c252233c2532" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2f663aa7-7ac9-4360-a4cc-6f97987df6f4" height="400px" width="400px">|
 
 |Compare Model|Payment|
 |------|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/835d3380-2ea4-4bae-b107-7c7b73aae804" height="250px" width="400px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/d750fe1e-5fd5-447e-9934-3e08262a96dd" height="250px" width="400px">|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/835d3380-2ea4-4bae-b107-7c7b73aae804" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/d750fe1e-5fd5-447e-9934-3e08262a96dd" height="400px" width="600px">|
 
 ## Project Structure
 
