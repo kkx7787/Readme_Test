@@ -11,8 +11,7 @@ Supports the ability to compare the execution results of multiple AI models, pro
 
 |Create Model|Execute Model|
 |---|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/e20a2004-0f04-4dcb-a557-40ff1261f021
-" height="400px" width="600px">|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/e20a2004-0f04-4dcb-a557-40ff1261f021" height="400px" width="600px">|
 
 |Compare Model|Payment|
 |---|---|
