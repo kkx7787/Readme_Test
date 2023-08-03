@@ -9,6 +9,10 @@ It's an execution platform that simplifies the testing and deployment of AI mode
 
 Supports the ability to compare the execution results of multiple AI models, provides a marketplace system for developers and users to access and utilize various AI models, and sells virtual goods.
 
+|Create Model|
+|---|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="1080px" width="1920px">|
+
 |Create Model|Execute Model|
 |---|---|
 |<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="400px" width="700px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/e20a2004-0f04-4dcb-a557-40ff1261f021" height="400px" width="700px">|
