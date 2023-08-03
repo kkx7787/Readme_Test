@@ -1,5 +1,3 @@
-버전2
-
 ![example workflow](https://github.com/Koreatech-Mongle/chameleon-platform/actions/workflows/update-dev-server.yml/badge.svg?branch=develop)
 
 <p align="center"><img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/d244b22e-b971-4400-b2dc-a3a7a90a0d75" height="180px" width="250px"></p>
