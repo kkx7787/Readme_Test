@@ -5,9 +5,9 @@
 # Chameleon-Platform
 > Platform for Chameleon
 
-It's an execution platform that simplifies the testing and deployment of AI models. 
+It's an execution platform that simplifies the testing and deployment of AI models.
 
-Supports the ability to compare the execution results of multiple AI models, provides a marketplace system for developers and users to access and utilize various AI models, and sells virtual goods.
+It supports the ability to compare the execution results of multiple AI models, and provides a marketplace system selling virtual goods for developers and users to access and utilize various AI models.
 
 |Create Model|
 |---|
