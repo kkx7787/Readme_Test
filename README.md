@@ -1,4 +1,3 @@
-# Awesome Project Build with TypeORM
 # Chameleon-Platform
 > Server for Chameleon-Platform
 This is
