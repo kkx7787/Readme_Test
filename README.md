@@ -16,7 +16,7 @@ This is
 ## Deploy Guide (Docker)
 ## Live PlayGround
 
-A [live plyagounrd](https://dev-client.chameleon.best/)
+A [View Plyagounrd](https://dev-client.chameleon.best/)
 
 ## How to Contribute
 1. Clone repository from develop branch and create a new branch
