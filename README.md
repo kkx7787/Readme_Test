@@ -25,13 +25,20 @@ Supports the ability to compare the execution results of multiple AI models, pro
 
 ![Project Structure](https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2dcb945e-c3e6-478c-b7c0-f1481da1baa9)
 
-`__tests__':
-`controller':
+`__tests__`:
+
+`controller`:
+
 `entities`:
+
 `platform`:
+
 `server`:
+
 `service`:
+
 `types`:
+
 `utils`:
 
 ## Prerequisites
