@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/kkx7787/Readme_Test/assets/115688628/ba368fc4-8f63-493c-84a6-06c89d3b1dc9" height="180px" width="250px"></p>
+<img src="https://github.com/kkx7787/Readme_Test/assets/115688628/ba368fc4-8f63-493c-84a6-06c89d3b1dc9" height="180px" width="250px">
 
 # Chameleon-Platform
 > Platform for Chameleon
