@@ -9,17 +9,13 @@ It's an execution platform that simplifies the testing and deployment of AI mode
 
 Supports the ability to compare the execution results of multiple AI models, provides a marketplace system for developers and users to access and utilize various AI models, and sells virtual goods.
 
-|Create Model|
-|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="350px">|
+|Create Model|Execute Model|
+|---|---|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="350px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/e20a2004-0f04-4dcb-a557-40ff1261f021" height="350px">|
 
-|Execute Model|
-|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/e20a2004-0f04-4dcb-a557-40ff1261f021" height="350px">|
-
-|Compare Model|
-|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/b32fbe84-1ba2-4029-8ae3-f9fd4686196f" height="350px">|
+|Compare Model|Payment|
+|---|---|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/b32fbe84-1ba2-4029-8ae3-f9fd4686196f" height="350px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2dcb945e-c3e6-478c-b7c0-f1481da1baa9" height="350px">|
 
 ## Project Structure
 
