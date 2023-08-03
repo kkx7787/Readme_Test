@@ -10,6 +10,8 @@ Supports clients with both desktop and mobile.
 ![Project Structure](https://github.com/kkx7787/Readme_Test/assets/115688628/f20a54e5-0a78-46a9-b219-8a48a8705011)
 
 ## Prerequisites
+* Linux envrionment
+* Node.js 11.x, `packages.json` dependencies
 ## Build Guide (Debian)
 ## Deploy Guide (Docker)
 ## How to Contribute
