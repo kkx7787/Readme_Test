@@ -1,9 +1,13 @@
 # Chameleon-Platform
 > Server for Chameleon-Platform
 
-This is
+This is 
+
+Supports clients with both desktop and mobile.
 
 ## Project Structure
+
+
 ## Prerequisites
 ## Build Guide (Debian)
 ## Deploy Guide (Docker)
@@ -13,4 +17,7 @@ This is
 ``` 
 git checkout https://github.com/Koreatech-Mongle/chameleon-platform -b name_for_new_branch
 ```
+
+2. Make Changes and test
+3. Submit Pull Request with comprehensive description of changes
 
