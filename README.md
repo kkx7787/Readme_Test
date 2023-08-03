@@ -1,6 +1,6 @@
 ![example workflow](https://github.com/Koreatech-Mongle/chameleon-platform/actions/workflows/update-dev-server.yml/badge.svg?branch=develop)
 
-<p align="center"><img src="https://github.com/kkx7787/Readme_Test/assets/115688628/ba368fc4-8f63-493c-84a6-06c89d3b1dc9" height="180px" width="250px"></p>
+<p align="center"><img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/d244b22e-b971-4400-b2dc-a3a7a90a0d75" height="180px" width="250px"></p>
 
 # Chameleon-Platform
 > Platform for Chameleon
@@ -11,15 +11,17 @@ Supports the ability to compare the execution results of multiple AI models, pro
 
 |Create Model|Execute Model|
 |---|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/3e1f5fc0-ee8c-44c0-bd9e-c252233c2532" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2f663aa7-7ac9-4360-a4cc-6f97987df6f4" height="400px" width="600px">|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/e20a2004-0f04-4dcb-a557-40ff1261f021
+" height="400px" width="600px">|
 
 |Compare Model|Payment|
 |---|---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/835d3380-2ea4-4bae-b107-7c7b73aae804" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/d750fe1e-5fd5-447e-9934-3e08262a96dd" height="400px" width="600px">|
+|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/b32fbe84-1ba2-4029-8ae3-f9fd4686196f" height="400px" width="600px">|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/8abe41bc-6302-4230-a8aa-e5d343670012" height="400px" width="600px">|
 
 ## Project Structure
 
-![Project Structure](https://github.com/kkx7787/Readme_Test/assets/115688628/f20a54e5-0a78-46a9-b219-8a48a8705011)
+![Project Structure](https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2dcb945e-c3e6-478c-b7c0-f1481da1baa9)
+
 
 ## Prerequisites
 * Linux envrionment
