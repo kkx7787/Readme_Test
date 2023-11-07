@@ -11,7 +11,7 @@ It supports the ability to compare the execution results of multiple AI models, 
 
 |Create Model|
 |---|
-|<img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/a46abb7e-053c-4297-a9f3-940e185cecd0" height="400px">|
+|<img src="https://github.com/kkx7787/Readme_Test/assets/115688628/f128d6d9-6c22-4190-a280-f1e5efe73715" height="400px">|
 
 |Execute Model|
 |---|
