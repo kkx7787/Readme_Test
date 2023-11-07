@@ -1,6 +1,6 @@
 ![example workflow](https://github.com/Koreatech-Mongle/chameleon-platform/actions/workflows/update-dev-server.yml/badge.svg?branch=develop)
 
-<p align="center"><img src="https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/d244b22e-b971-4400-b2dc-a3a7a90a0d75" height="180px" width="250px"></p>
+<p align="center"><img src="https://github.com/kkx7787/Readme_Test/assets/115688628/07bb842e-0201-48bc-ba93-e2eb47d15939" height="180px" width="250px"></p>
 
 # Chameleon-Platform
 > Platform for Chameleon
@@ -23,7 +23,7 @@ It supports the ability to compare the execution results of multiple AI models, 
 
 ## Project Structure
 
-![Project Structure](https://github.com/Koreatech-Mongle/chameleon-platform/assets/115688628/2dcb945e-c3e6-478c-b7c0-f1481da1baa9)
+![Project Structure](https://github.com/kkx7787/Readme_Test/assets/115688628/a63ebb8e-de96-4998-aaff-19fa50e5d38a)
 
 `__tests__`:
 
