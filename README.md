@@ -11,7 +11,7 @@ It supports the ability to compare the execution results of multiple AI models, 
 
 |Create Model|
 |---|
-|<img src="https://github.com/kkx7787/Readme_Test/assets/115688628/f128d6d9-6c22-4190-a280-f1e5efe73715" height="400px">|
+|<img src="https://github.com/kkx7787/Readme_Test/assets/115688628/f4873f62-81f6-4add-8d94-6ce4488e0310" height="400px">|
 
 |Execute Model|
 |---|
